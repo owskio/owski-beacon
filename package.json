@@ -1,0 +1,18 @@
+{
+  "name": "owski-beacon",
+  "version": "0.0.1",
+  "description": "Simple single-value push-only FRP properties-as-events module",
+  "main": "beacon.js",
+  "scripts": {
+    "test": "mocha tests/*.mocha.js"
+  },
+  "keywords": [
+    "FRP",
+    "frp",
+    "reactive",
+    "functional",
+    "functional-reactive"
+  ],
+  "author": "Ted Cackowski Jr",
+  "license": "MIT"
+}
