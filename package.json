@@ -1,8 +1,8 @@
 {
   "name": "owski-beacon",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple single-value push-only FRP properties-as-events module",
-  "main": "beacon.js",
+  "main": "src/beacon.js",
   "scripts": {
     "test": "mocha tests/*.mocha.js"
   },
